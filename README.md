@@ -1,0 +1,2 @@
+# sprites
+all private icons
