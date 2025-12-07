@@ -1,2 +1,2 @@
 # sprites
-all private icons
+
